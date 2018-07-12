@@ -1,5 +1,6 @@
 
 A simple Url Shortner demo application.
+=======================================
 
 Things you may want to cover:
 
@@ -17,3 +18,14 @@ Things you may want to cover:
 
 * Tunelling localost at: http://1a5c904e.ngrok.io/
 
+The Demo is as below:
+======================
+
+
+![Alt text](app/assets/images/shot1.png?raw=true "Title")
+
+
+After shortening
+================
+
+![Alt text](app/assets/images/shot2.png?raw=true "Title")
