@@ -1,24 +1,19 @@
-# README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A simple Url Shortner demo application.
 
 Things you may want to cover:
 
-* Ruby version
+* Ruby version: 2.4.0
 
-* System dependencies
+* System dependencies: ruby and rails env , linux or mac
 
 * Configuration
 
-* Database creation
+* Database creation: sqlite
 
-* Database initialization
+* Database initialization: rake db:migrate
 
-* How to run the test suite
+* How to run the test suite: rspec, bundle exec rspec
 
-* Services (job queues, cache servers, search engines, etc.)
+* Tunelling localost at: http://1a5c904e.ngrok.io/
 
-* Deployment instructions
-
-* ...
