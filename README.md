@@ -16,7 +16,7 @@ Things you may want to cover:
 
 * How to run the test suite: rspec, bundle exec rspec
 
-* Tunelling localost at: http://1a5c904e.ngrok.io/
+* Tunelling localost at: http://af46de80.ngrok.io/
 
 The Demo is as below:
 ======================
